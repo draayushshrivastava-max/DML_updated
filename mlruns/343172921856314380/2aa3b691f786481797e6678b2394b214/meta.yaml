@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/lenovo/kidney-mlops-project/mlruns/343172921856314380/2aa3b691f786481797e6678b2394b214/artifacts
+end_time: 1764318281006
+entry_point_name: ''
+experiment_id: '343172921856314380'
+lifecycle_stage: active
+run_id: 2aa3b691f786481797e6678b2394b214
+run_name: omniscient-wren-437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764318259676
+status: 3
+tags: []
+user_id: lenovo

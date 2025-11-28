@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/lenovo/kidney-mlops-project/mlruns/343172921856314380/models/m-d4b680af8c4f4d09802170ddfc9cecf5/artifacts
+creation_timestamp: 1764318260627
+experiment_id: '343172921856314380'
+last_updated_timestamp: 1764318280981
+model_id: m-d4b680af8c4f4d09802170ddfc9cecf5
+model_type: null
+name: model
+source_run_id: 2aa3b691f786481797e6678b2394b214
+status: 2
+status_message: null
