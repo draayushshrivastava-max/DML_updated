@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/lenovo/kidney-mlops-project/mlruns/343172921856314380/24acd4500d8f4a1cacdb638d0232f34d/artifacts
+end_time: 1764388046187
+entry_point_name: ''
+experiment_id: '343172921856314380'
+lifecycle_stage: active
+run_id: 24acd4500d8f4a1cacdb638d0232f34d
+run_name: salty-owl-271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764388017945
+status: 3
+tags: []
+user_id: lenovo

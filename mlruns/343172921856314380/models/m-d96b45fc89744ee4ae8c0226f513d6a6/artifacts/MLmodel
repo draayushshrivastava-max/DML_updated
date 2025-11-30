@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/lenovo/kidney-mlops-project/mlruns/343172921856314380/models/m-d96b45fc89744ee4ae8c0226f513d6a6/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.6.0
+model_id: m-d96b45fc89744ee4ae8c0226f513d6a6
+model_size_bytes: 449204
+model_uuid: m-d96b45fc89744ee4ae8c0226f513d6a6
+prompts: null
+run_id: cade0a8473fd440787223681dd4b0b03
+utc_time_created: '2025-11-28 10:30:02.578315'

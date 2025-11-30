@@ -10,8 +10,13 @@ from src.config import load_config, PROJECT_ROOT
 # Load config, model, preprocessor
 # -----------------------------
 cfg = load_config()
-MODEL_PATH = PROJECT_ROOT / "models" / "model.pkl"
-PREPROCESSOR_PATH = PROJECT_ROOT / "models" / "preprocessor.pkl"
+
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent   # this is /app/app inside container
+
+MODEL_PATH = BASE_DIR / "models" / "model.pkl"
+PREPROCESSOR_PATH = BASE_DIR / "models" / "preprocessor.pkl"
 
 model = joblib.load(MODEL_PATH)
 preprocessor = joblib.load(PREPROCESSOR_PATH)

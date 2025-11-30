@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/lenovo/kidney-mlops-project/mlruns/343172921856314380/59e8c5a451c043998b810a373a01563b/artifacts
+end_time: 1764326054481
+entry_point_name: ''
+experiment_id: '343172921856314380'
+lifecycle_stage: active
+run_id: 59e8c5a451c043998b810a373a01563b
+run_name: selective-stoat-17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764326038643
+status: 3
+tags: []
+user_id: lenovo
