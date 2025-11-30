@@ -12,7 +12,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 # 3. Copy project code
 COPY app ./app
 COPY src ./src
-COPY models ./models
+COPY app ./models
 
 # (optional) copy data if you really need it in container
 # COPY data ./data
